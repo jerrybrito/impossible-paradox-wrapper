@@ -1,0 +1,2 @@
+# Requires: paradoxical-duration
+# (Not available on PyPI)
